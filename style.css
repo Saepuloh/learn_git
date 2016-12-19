@@ -41,7 +41,7 @@ label {
 }
 label:hover {
   cursor: pointer;
-  text-decoration: underline;
+  text-decoration: none;
 }
 #tab1:checked ~ #content1, #tab2:checked ~ #content2, #tab3:checked ~ #content3, #tab4:checked ~ #content4 {
   display: block;
